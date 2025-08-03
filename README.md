@@ -11,6 +11,10 @@ The name **GSC Nerd Font** is used to comply with the **SIL Open Font License (O
 - Download the fonts from this repository.
 - Set the font in your terminal or editor (e.g., iTerm, nvim, etc.).
 
+## Screenshots
+
+![](/ss.png)
+
 ## License
 
 This font is licensed under the **SIL Open Font License, Version 1.1**. See the [full license](/LICENSE) for more details.
